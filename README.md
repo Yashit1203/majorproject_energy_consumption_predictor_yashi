@@ -126,7 +126,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Yashi Tripathi**
-GitHub: 
+GitHub: https://github.com/Yashit1203
 
 ---
 
